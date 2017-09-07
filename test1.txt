@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is A863-978F
+
+ Directory of C:\Users\NEX9AQG\Desktop\my project
+
+09/07/2017  11:51 AM    <DIR>          .
+09/07/2017  11:51 AM    <DIR>          ..
+09/07/2017  11:51 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  392,621,322,240 bytes free
